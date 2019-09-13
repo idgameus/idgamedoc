@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/idgameus/idgamedoc/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/idgameus/idgamedoc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h1>idgame.us 에 대하여</h1>
+<p>idgame.us는 아마추어-인디게임에 중점을둔 게임 배포 플랫폼입니다. ⊙문화체육관광부공고제2019-145호 2019년 8월 27일(화)에 통과된 「게임산업 진흥에 관한 법률 시행령」 개정안 <a href="https://opinion.lawmaking.go.kr/gcom/ogLmPp/54228" rel="nofollow">(링크)</a> 에 의거 취미활동 등 단순공개 목적의 창작 활동 등의 용도로 제작·배급하는 비영리 게임물의 배포를 위해 만들어졌습니다.</p>
+<p>idgame.us는 「게임산업 진흥에 관한 법률」(이하 게임법)에서 제시한 기준에 따라 전체이용가, 12세 이용가, 15세 이용가 게임의 정보를 제공하며 제작자가 자체 등급 분류 절차를 거쳐 등급을 부여합니다. 자체 등급 분류는 위험성을 내포하고 있으므로 게임법에 정의된 등급보다 조금 더 엄격하게 제시되며 건강한 아마추어-인디게임문화를 위해 협조 부탁 드립니다.</p>
+<p>idgame.us는 개발자가 게임을 배포하는데 있어 더 많은 side job를 강요하지 않기위해 노력하고 있습니다. 어떠한 종류의 sdk도 포함해야하거나 api 호출을 강제하지 않으며 배포에 어떠한 비용도 요구하지 않습니다. 하지만 원활한 운영을 위해 되도록 대용량 파일링크는 Dropbox나 Google Drive, OneDrive 등을 이용해주시기 바랍니다. 아마추어-인디 개발자가 복잡한 방법을 거치지 않고도 클릭만으로 업로드가 가능하도록 파일첨부가 즉시 가능하지만 개인이 유지하고 운영비 기부를 제외한 어떠한 상업화 모델도 포함하고있지 않으므로 서비스의 자생을 위해 트래픽을 분담해주시면 감사하겠습니다.</p>
+<p>idgame.us은 공식적으로 비영리 게임만 업로드가 가능하며 게임컨텐츠를 해치지 않는 passive 방식의 광고 까지는 허용하려고 합니다만 내부나 외부에서 게임 컨텐츠 외의 행동으로 게임 컨텐츠상 reward가 발생하는 경우는 업로드가 금지됩니다. 이번에 개정된 법의 한계로 이런종류의 컨텐츠를 배포하고싶다면 자체 등급 분류 사업자(애플, 구글, 삼성, 소니, etc)의 마켓에 업로드를 하시고 유료-게임스토어 메뉴에서 링크를 하는 방식으로 홍보를 부탁드립니다.</p>
+<p>상세한 정보가 필요한 경우 다른 페이지들을 읽어봐 주세요. 감사합니다</p>
